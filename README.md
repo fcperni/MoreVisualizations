@@ -1,4 +1,4 @@
-# MoreVisualizations
+# Power BI: ¡Dame más visualizaciones!
 
 Dentro del mundo de la visualización de datos, la simplicidad es sinónimo de éxito. Pero a veces queremos ir un poquito más allá y experimentar con nuevos modelos visuales. 
 
